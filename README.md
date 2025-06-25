@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2020<br>📚 I'm currently working on building a personal health system OS app to create an AI personal trainer using your health data!<br>🎯 Goals: Create the next big tech company<br>🎲 Fun fact: I am fluent in 4 languages! Guess which ones 👀</p>
+<p align="left">✨ Coding since 2020<br>📚 I'm currently working on building a personal health system OS app to create an AI personal trainer using your health data!<br>🎯 Goals: Create the next big tech company and make a positive impact on this world. <br>🎲 Fun fact: I am fluent in 4 languages! Guess which ones 👀</p>
 
 ###
 
